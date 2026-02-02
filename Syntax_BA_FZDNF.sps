@@ -3,9 +3,7 @@
 *Grundsätzliche Informationen
 *------------------------------------------------------------------.
 * Bachelorarbeit-Syntax
-*Vorgelegt von: Fabian Zaudig
-*Matrikelnummer: 451211039
-*Prüfer/in: Frau Prof. Dr. Alina Hernandez-Bark
+*Vorgelegt von: FZDNF
 *Fachrichtung: Wirtschaft, Psychologie & Recht
 *Studiengang: Psychologie
 * Thema: Der Zusammenhang von subjektiv erfasster Achtsamkeit und subjektiv erfasstem akademischen Erfolg
@@ -358,4 +356,5 @@ FREQUENCIES VARIABLES=TIME_SUM
 *------------------------------------------------------------------.
 *Ende der Syntax.
 *------------------------------------------------------------------.
+
 
