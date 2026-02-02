@@ -30,7 +30,9 @@ vollständigen, prüfungsorientierten Analyseworkflow.
 Sie dient hier als Nachweis für SPSS- und Statistikkompetenz und nicht als
 vereinfachtes Beispielskript.
 
-Datensätze liegen bei, die Erhebung der Daten erfolgte anonym und die Verwendung ist datenschutztechnisch somit einwandfrei. Das Projekt ist komplett reproduzierbar.
+Datensätze liegen bei, die Erhebung der Daten erfolgte anonym und der Speicherung sowie Nutzung der Daten wurde zugestimmt. Die Verwendung ist datenschutztechnisch somit einwandfrei. Das Projekt ist komplett reproduzierbar.
+
+Alle anderen personenbezogenen Daten (Matrikelnummer, Hochschule, voller Name, Name des Dozenten) wurden konsequent gelöscht.
 
 ## Gezeigte Kompetenzen
 
